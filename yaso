@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+printf("야스오");
+printf("프제짱");
+return 0;
+
+}
